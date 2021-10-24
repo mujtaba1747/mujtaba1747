@@ -1,5 +1,4 @@
-### Hi there 👋
-
+“I'm the type of person that if you ask me a question and I don't know the answer, I'm going to tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.”
 <!--
 **mujtaba1747/mujtaba1747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
