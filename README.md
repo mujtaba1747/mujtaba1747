@@ -1,4 +1,4 @@
-“I'm the type of person that if you ask me a question and I don't know the answer, I'm going to tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.”
+“Seek knowledge from the cradle to the grave”
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mujtaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-mujtaba/)](https://www.linkedin.com/in/syed-mujtaba/)
 <!--
