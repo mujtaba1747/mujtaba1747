@@ -1,4 +1,4 @@
-“Seek knowledge from the cradle to the grave”
+Seek knowledge from the cradle to the grave
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mujtaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-mujtaba/)](https://www.linkedin.com/in/syed-mujtaba/)
 <!--
